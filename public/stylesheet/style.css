@@ -1,0 +1,12 @@
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+
+.accordion.accordion-3 {
+    border-radius: 3px; }
+    .accordion.accordion-3 p {
+    font-size: 1rem; }
+    .accordion.accordion-3 .fa.fa-angle-down {
+    margin-top: -10px; }
+    
+    .accordion .animated-icon1 span {
+    background: #F44336;
+    }
